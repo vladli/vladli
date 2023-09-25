@@ -7,9 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">I'm Vlad! I graduated from Korea University in 2022, where I earned my degree in Electrical Engineering. Originally from Kazakhstan, I have always been interested in computers and programs, which led me to pursue my education in South Korea and become a software developer.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladli" alt="vladli" /></a> </p>
+<h3 align="center">I graduated from Korea University in 2022, where I earned my degree in Electrical Engineering. Originally from Kazakhstan, I have always been interested in computers and programs, which led me to pursue my education in South Korea and become a software developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://vladli.dev/](https://vladli.dev/)
 
