@@ -1,6 +1,8 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Vlad</h1>
-I graduated from Korea University in 2022, where I earned my degree in Electrical Engineering. Originally from Kazakhstan, I have always been interested in computers and programs, which led me to pursue my education in South Korea and become a software developer.<br>👨‍💻 All of my projects are available at [https://vladli.dev/](https://vladli.dev/)
+### Hi 👋, I'm Vlad
+I graduated from Korea University in 2022, where I earned my degree in Electrical Engineering. Originally from Kazakhstan, I have always been interested in computers and programs, which led me to pursue my education in South Korea and become a software developer.
+
+👨‍💻 All of my projects are available at [vladli.dev](https://vladli.dev)
 
 
 ## 🌐 Socials:
